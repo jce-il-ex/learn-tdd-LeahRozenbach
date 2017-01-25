@@ -17,7 +17,7 @@ For students, follow these steps:
 #### My details:
 
 - Excercise: HW4 - TDD
-- Name:  
+- Name:
 - ID#:
 - github username: 
 - Estimation of hours I worked on it: 
@@ -445,7 +445,7 @@ Commit the report, as well.
 For more details concerning Travis CI check out the tutorial:
 https://github.com/dwyl/learn-travis
 
-> Visit: https://travis-ci.org/profile
+> Visit: https://travis-ci.org/jce-il-ex/learn-tdd-LeahRozenbach
 > Enable Travis for your project
 
 ![Travis Enabled](https://raw.github.com/jce-il/learn-mocha/master/images/travis-on.png "Travis Enabled")
